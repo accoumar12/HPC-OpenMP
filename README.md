@@ -1,6 +1,6 @@
 # HPC-OpenMP
 
-This work was during the High Performance Computing (HPC) course at ISAE-SUPAERO.
+This work was done during the High Performance Computing (HPC) course at ISAE-SUPAERO.
 The task was to apply parallelization using OpenMP on an image compression problem, in order to greatly increase the performance of the K-means compression algorithm.
 
 For example, these are the results of a 8-colour compression:
